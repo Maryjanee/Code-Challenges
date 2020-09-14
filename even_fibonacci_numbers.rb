@@ -1,4 +1,3 @@
-
 def fibanoccai(num)
   fibarr = []
   i = 0
